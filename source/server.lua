@@ -30,7 +30,7 @@ function LogToDiscord(username, args)
                 },
             },
             ["footer"] = {
-                ["text"] = "Lifeinvade By scentral",
+                ["text"] = "Lifeinvade By T0rchie",
             },
         }
     }
