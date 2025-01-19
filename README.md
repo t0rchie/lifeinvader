@@ -3,7 +3,7 @@ This is a standalone Lifeinvader "tweeter" that allows users to display their me
 
 [Preview](https://www.youtube.com/watch?v=VV-5OzhhDE4)
 
-[Discord](https://discord.gg/YAeUB5cYbK)
+[Discord](https://discord.gg/TYBCgzPQva)
 
 > **Features**
 - Custom username
