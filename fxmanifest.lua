@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 name 'Lifeinvader'
-author 'Scentral (860097417144041472)'
+author 'T0rchie'
 game 'gta5'
 
 ui_page 'source/interface/index.html'
